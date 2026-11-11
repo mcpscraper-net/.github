@@ -10,5 +10,3 @@ Scraping MCP servers, compared on a published rubric.
 ```bash
 npx @mcpscraper-net/cli fetch https://example.com -o text
 ```
-
-Built on the [Live Web Data API](https://livewebdata.com).
