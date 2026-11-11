@@ -11,4 +11,4 @@ Scraping MCP servers, compared on a published rubric.
 npx @mcpscraper-net/cli fetch https://example.com -o text
 ```
 
-A [Teneo Labs](https://mcpscraper.net/imprint) project, built on the [Live Web Data API](https://livewebdata.com).
+Built on the [Live Web Data API](https://livewebdata.com).
